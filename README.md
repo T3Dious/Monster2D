@@ -14,7 +14,7 @@ Melee: Attacks when within close range.
 Ranged/Magic: Shoots projectiles at the player when within attack range and line of sight, with controllable fire rate.
 As the monsters too will attack and move to increase the chance that you may mis-shot them.
 
-https://github.com/user-attachments/assets/34b1df0e-86df-4360-926d-e807597d740a
+https://github.com/user-attachments/assets/c0fef3e5-55c9-4789-bb2c-0cf79ae70954
 
 Note: Soon there will be an update to control the range of the moving while attacking the player depending the monster type
 Loot Drops:
